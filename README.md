@@ -5,7 +5,9 @@
 - Juan Pablo Gomez
 - Nicolas Rodriguez
 - Camilo
+  
 #Requisitos
 - JDK 17+
 - Git
+
 Proyecto POO
