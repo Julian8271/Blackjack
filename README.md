@@ -10,4 +10,9 @@
 - JDK 17+
 - Git
 
+#Como Ejecutar
+- Clonar Repositorio
+- Abrir OnlineGDB o un compilador de Java
+-.......
+  
 Proyecto POO
