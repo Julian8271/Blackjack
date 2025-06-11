@@ -11,8 +11,8 @@
 - Git
 
 #Como Ejecutar
-- Clonar Repositorio
-- Abrir OnlineGDB o un compilador de Java
+1. Clonar Repositorio
+2. Abrir OnlineGDB o un compilador de Java
 -.......
   
 Proyecto POO
