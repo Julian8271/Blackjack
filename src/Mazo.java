@@ -16,7 +16,7 @@ public class Mazo {
         //Creamos arreglos con los tipos de cartas y los valores que estas puedan tomar 
         String[] palos = {"Corazones", "Picas", "Diamantes", "Treboles"};
         String[] valores = {"As", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"}; 
-        //Ciclos anidados para asiganr los valores y tipo a cada carta.
+        //Ciclos anidados para asignar los valores y tipo a cada carta.
         for (String palo : palos) {
             for (String valor : valores) {
                 cartas.add(new Carta(palo, valor));
