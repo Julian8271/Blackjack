@@ -300,6 +300,8 @@ public class Juego {
 					i--;
 				}
 			}
+			//Tambien limpiamos la mano del crupier para la nueva ronda.
+			crupier.getMano().clear();
 			//retornamos false para que la condicion se siga ejecutando en el main
 			return !continuar.equalsIgnoreCase("S");
 			//No mas rondas
@@ -315,6 +317,7 @@ public class Juego {
 	}
 
 	//Metodo para determinar quien gano!!!
+	//Quitamos la comparación con los otros jugadores, ya que en el blackjack original esto no se hace en el modo de jeugo clasico 
 	private void determinarGanadores() {
 		System.out.println("\n=== RESULTADOS ===");
 		//Obtenemos el puntaje del crupier
