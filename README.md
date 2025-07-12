@@ -3,7 +3,7 @@
 - David Alejandro
 - Julian David Marin Tellez
 - Juan Pablo Gomez
-- Nicolas Rodriguez
+- Nicolas Alberto Rodriguez Gonzalez
 - Camilo
 
   ## 📋 Requisitos  
