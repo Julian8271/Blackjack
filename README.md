@@ -1,27 +1,37 @@
-# Blackjack
-**Integrantes:**
+🃏 Blackjack
+Proyecto de Programación Orientada a Objetos (POO) Este repositorio contiene una implementación del juego Blackjack, diseñada como proyecto académico. El código incluye una versión con interfaz gráfica y una versión sin interfaz para ejecución simple.
+
+👥 Integrantes del equipo
 - David Alejandro
-- Julian David Marin Tellez
-- Juan Pablo Gomez
-- Nicolas Alberto Rodriguez Gonzalez
+
+- Julian David Marín Téllez
+
+- Juan Pablo Gómez
+
+- Nicolás Alberto Rodríguez González
+
 - Camilo
 
-  ## 📋 Requisitos  
-- **JDK 17+** (Descarga [aquí](https://adoptium.net/)).  
-- **Git** (Para clonar el repositorio).  
-- **IDE recomendado**: IntelliJ IDEA, Eclipse o VS Code.  
+📋 Requisitos del sistema
+- JDK 17 o superior — Descargar aquí
 
-#Como Ejecutar
+- Git — para clonar el repositorio
 
-1. Abre OnlineGDB o un compilador de Java IntelliJ IDEA, Eclipse o VS Code.
+- IDE recomendadas — IntelliJ IDEA, Eclipse o VS Code
 
-2. Sube los archivos:
+🚀 Cómo ejecutar el proyecto
+🔧 Versión sin interfaz gráfica
+- Descarga los archivos fuente de forma individual.
 
-4. Haz clic en "File" > "Upload File".
+- Accede a OnlineGDB y súbelos allí.
 
-5. Selecciona todos los archivos .java de la carpeta src/. o si ya descargaste los archivos subelos de tu computadora
+- Ejecuta el proyecto presionando Run.
 
-6. Ejecuta: Haz clic en el botón verde "Run".
--.......
-  
-Proyecto POO
+🖥️ Versión con interfaz gráfica
+- Instala NetBeans (versión compatible con JDK 17).
+
+- Descarga y descomprime la carpeta del proyecto.
+
+- Abre NetBeans y carga el proyecto desde el menú Archivo > Abrir proyecto.
+
+- Ejecuta la aplicación usando el botón de Run.
